@@ -26,4 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen ilk önce n
 
 ## License
 ---
-[MIT](https://github.com/cengizcmataraci/kodluyoruzilkrepo.git)
+[MIT](https://github.com/HalilOnurKARAPINAR/kodluyoruzilkrepo.git)
